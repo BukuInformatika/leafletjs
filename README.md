@@ -1,2 +1,2 @@
-# leafletjs
+# LEAFLETJS
 Buku Leaflet JS
